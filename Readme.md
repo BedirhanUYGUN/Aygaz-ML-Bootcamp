@@ -7,7 +7,7 @@ Bu proje, **New York City Taxi Trip Duration** veri seti kullanılarak yolculuk 
 
 1. [NYC Taxi Trip Duration - Random Forest & Lineer Regression](https://www.kaggle.com/code/bedirhanuygun/nyc-taxi-trip-duration-random-forest-lineer-reg)
 2. [NYC Taxi Trip Duration - K-Means Uygulaması](https://www.kaggle.com/code/bedirhanuygun/nyc-taxi-trip-duration-k-means#K-Means-Uygulama)
-
+" K-Means uygulamasındaki proje aslında çalışıyor sonuçlarını vs. de aldım fakat bilmediğim bir nedenden ötürü bazen hata verebiliyor kütüphane aynı kodu bir kaç kere çalıştırdığımda ya da değiştirip aynısı yazdığımda tekrardan çalışıyor"
 ## İçindekiler
 
 -   [Proje Amacı](#proje-amac%C4%B1)
