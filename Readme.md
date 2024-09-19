@@ -3,6 +3,11 @@
 
 Bu proje, **New York City Taxi Trip Duration** veri seti kullanılarak yolculuk süresi tahminleri yapmak ve iki farklı makine öğrenmesi modelinin (Lineer Regresyon ve Random Forest) performanslarını karşılaştırmayı amaçlamaktadır.
 
+## NYC Taxi Trip Duration Projeleri
+
+1. [NYC Taxi Trip Duration - Random Forest & Lineer Regression](https://www.kaggle.com/code/bedirhanuygun/nyc-taxi-trip-duration-random-forest-lineer-reg)
+2. [NYC Taxi Trip Duration - K-Means Uygulaması](https://www.kaggle.com/code/bedirhanuygun/nyc-taxi-trip-duration-k-means#K-Means-Uygulama)
+
 ## İçindekiler
 
 -   [Proje Amacı](#proje-amac%C4%B1)
